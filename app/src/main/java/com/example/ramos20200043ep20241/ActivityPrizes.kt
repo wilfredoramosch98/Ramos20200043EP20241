@@ -32,10 +32,6 @@ class ActivityPrizes : AppCompatActivity() {
 
 
         btCalcular.setOnClickListener{
-            val primer = 0.25
-            val segundo = 0.15
-            val tercero = 0.10
-            val cuarto =  0.05
 
 
 
