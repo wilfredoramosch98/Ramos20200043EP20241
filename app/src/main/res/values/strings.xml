@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ramos20200043EP20241</string>
+    <string name="Indroduccion">¡Bienvenidos a la Copa América! Disfruten del fútbol, la pasión y la unión de nuestras naciones.</string>
+    <string name="BotonIncio">GET STARTED</string>
+    <string name="TituloLogin">LOGIN</string>
+    <string name="IngresarEmail">Ingresa Email</string>
+    <string name="IngresaPassword">Ingresa Password</string>
+    <string name="BotonInciar">SIGN IN</string>
+    <string name="BotonPrices">PRICES</string>
+    <string name="BotonTeams">TEAMS</string>
+    <string name="BotonStadiums">STADIUMS</string>
+    <string name="IngresarMonto">Total Amount in USD</string>
+    <string name="BotonCalcular">CALCULAR</string>
+    <string name="BotonIrInicio">GO TO MENU</string>
+    <string name="DetallePrecio">1 place 25% *Total Amount\n2 place 15% *Total Amount\n3 place 10% *Total Amount\n4 - 16 place:\nTotal Amount -(1°+2°+3°) / 13\n\n</string>
+    <string name="TituloMenu">MENU</string>
+    <string name="PrimerLugar">1st place:</string>
+    <string name="SegundoLugar">2nd place:</string>
+    <string name="TercerLugar">3rd place:</string>
+    <string name="CuartoLugar">4th to 16th:</string>
+</resources>
